@@ -103,10 +103,12 @@ p {
     color: var(--color-white);
     padding: 16px;
     transition: all var(--animation-duration) ease-in-out;
+    /* z-index 어떤 일이 있어도 위로 올라오게 */
+    z-index: 1; 
 }
 
 #navbar.navbar--dark {
-    background-color: #e3d3d3;
+    background-color: #eddddd;
     padding: 16px;
 }
 
