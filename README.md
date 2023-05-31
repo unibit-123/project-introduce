@@ -1,5 +1,4 @@
-# portfolio
- jaechang's portfolio
+# PORTFOLIO
 
 INTRODUCE
 -
